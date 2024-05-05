@@ -1,0 +1,15 @@
+.password-toggle {
+    cursor: pointer;
+}
+.none {
+    color: red;
+}
+.easy {
+    color: goldenrod;
+}
+.medium {
+    color: orange;
+}
+.hard {
+    color: green;
+}
